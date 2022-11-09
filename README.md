@@ -12,6 +12,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devpimentel2022&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-</div>
 ![snake gif](https://github.com/Devpimentel2022/Devpimentel2022/blob/output/github-contribution-grid-snake.svg)
+</div>
+
