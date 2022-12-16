@@ -18,7 +18,7 @@
   
   <img align="right" alt="Kaio-Yoda" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/217/thumb-217489.jpg"><br>
   
-<p align="center">
+<p text-align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devpimentel2022&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
