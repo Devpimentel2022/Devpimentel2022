@@ -16,9 +16,7 @@
   
   <img align="center" alt="Kaio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Kaio-Yoda" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/217/thumb-217489.jpg">
-  <br>
-  <br>
+  <img align="right" alt="Kaio-Yoda" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/217/thumb-217489.jpg"><br>
   
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Devpimentel2022&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
