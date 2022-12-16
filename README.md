@@ -31,7 +31,4 @@
   <a href="https://www.linkedin.com/in/kaio-lima-55a07a1a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
-<div align="center">
 ![snake gif](https://github.com/Devpimentel2022/Devpimentel2022/blob/output/github-contribution-grid-snake.svg) 
- </div>
